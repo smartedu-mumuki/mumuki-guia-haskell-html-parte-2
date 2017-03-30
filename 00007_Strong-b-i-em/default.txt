@@ -1,0 +1,8 @@
+<head>
+</head>
+<body>
+Bold
+Strong
+Italic
+emphasized
+</body>
