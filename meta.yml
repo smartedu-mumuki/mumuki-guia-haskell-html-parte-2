@@ -4,7 +4,7 @@ locale: es
 type: learning
 beta: false
 teacher_info: ''
-language: text
+language: html
 id_format: "%05d"
 order:
 - 1
