@@ -1,0 +1,1 @@
+_¡Mucho mejor! Ahora esta pagina va tomando color jejeje._
