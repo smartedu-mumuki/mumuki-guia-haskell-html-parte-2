@@ -1,1 +1,0 @@
-¡Recorda poner cyan entre comillas!

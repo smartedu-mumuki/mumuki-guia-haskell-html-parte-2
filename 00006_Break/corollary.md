@@ -1,1 +1,0 @@
-_¡Excelente! No fue un recreo, pero si un ejercicio fácil para no rompernos la cabeza._
