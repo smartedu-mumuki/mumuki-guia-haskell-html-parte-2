@@ -3,7 +3,7 @@ name: Html parte 2
 locale: es
 type: learning
 beta: false
-teacher_info: 
-language: haskell
+teacher_info: ''
+language: text
 id_format: "%05d"
 order: []
