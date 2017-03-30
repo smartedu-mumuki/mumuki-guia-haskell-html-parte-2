@@ -1,1 +1,0 @@
-_Perfecto ¿mucho mejor no?_ _Podes usar tanto porcentaje como pixeles (usando px)_
