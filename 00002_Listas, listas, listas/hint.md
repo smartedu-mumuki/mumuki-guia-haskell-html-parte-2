@@ -1,0 +1,1 @@
+Recorda que dentro de ol tiene que estar type, el = y las comillas de la A.¿Cerraste el ol?
