@@ -1,0 +1,1 @@
+Explicar el anchor en detalle y atributos
