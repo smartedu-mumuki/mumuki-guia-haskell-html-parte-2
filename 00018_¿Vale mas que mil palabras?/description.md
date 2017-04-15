@@ -1,0 +1,1 @@
+La importancia del atributo alt
