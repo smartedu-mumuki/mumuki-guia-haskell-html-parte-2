@@ -1,1 +1,0 @@
-_"Como a una de tus mujeres francesas" Muy bien! Vamos al siguiente ejercicio._
